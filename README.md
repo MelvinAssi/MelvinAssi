@@ -4,10 +4,11 @@
 Développeur Web & Mobile <strong>React / React Native</strong> – France 🇫🇷<br>
 Titulaire du <strong>Titre Professionnel DWWM</strong>
 </p>
----
+
 <p align="left">
   <img src="https://github.com/MelvinAssi/metrics/raw/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
 ---
 
 <h2 align="left">👨‍💻 About Me</h2>
@@ -61,6 +62,7 @@ Titulaire du <strong>Titre Professionnel DWWM</strong>
 💼 GitHub : <a href="https://github.com/MelvinAssi">MelvinAssi</a><br>
 🔗 LinkedIn : <a href="https://www.linkedin.com/in/melvin-assi">Melvin Assi</a>
 </p>
+
 
 
 
