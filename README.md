@@ -60,8 +60,8 @@ J’ai réalisé plusieurs projets web et mobile, dont une application mobile, u
 <h2 align="left">📊 GitHub stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MelvinAssi&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MelvinAssi&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MelvinAssi&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinAssi&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="150"/>
 </div>
 
 ---
@@ -72,5 +72,6 @@ J’ai réalisé plusieurs projets web et mobile, dont une application mobile, u
 📧 melvinassi.pro@gmail.com<br>
 💼 GitHub : https://github.com/MelvinAssi
 </p>
+
 
 
